@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Dec 30 10:51:12 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018c-ba22-7f2c-0000011c87d0 
+on database directory memory:/Users/marten/Repositories/apress/spring-boot-3-recipes/code/ch06/recipe_6_1_i/ed62fe08-f5a9-4d59-9788-ae120dc59d64 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5679c6c6 
+Loaded from file:/Users/marten/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.1+12-LTS
+user.dir=/Users/marten/Repositories/apress/spring-boot-3-recipes/code/ch06/recipe_6_1_i
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.7.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

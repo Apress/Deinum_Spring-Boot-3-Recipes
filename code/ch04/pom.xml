@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+				 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.apress.springbootrecipes</groupId>
+	<artifactId>spring-boot-3-ch04</artifactId>
+	<version>3.0.0</version>
+	<packaging>pom</packaging>
+	<name>Spring Boot - Webflux</name>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.apress.springboot3recipes</groupId>
+			<artifactId>shared</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+	</dependencies>
+
+	<modules>
+		<module>recipe_4_1</module>
+		<module>recipe_4_2_i</module>
+		<module>recipe_4_3_i</module>
+		<module>recipe_4_3_ii</module>
+		<module>recipe_4_4_i</module>
+		<module>recipe_4_4_ii</module>
+		<module>recipe_4_4_iii</module>
+		<module>recipe_4_5</module>
+		<module>recipe_4_6</module>
+		<module>recipe_4_7</module>
+		<module>recipe_4_8</module>
+		<module>recipe_4_9_i</module>
+		<module>recipe_4_9_ii</module>
+		<module>recipe_4_10_i</module>
+		<module>recipe_4_10_ii</module>
+		<module>recipe_4_11_i</module>
+		<module>recipe_4_11_ii</module>
+	</modules>
+
+</project>

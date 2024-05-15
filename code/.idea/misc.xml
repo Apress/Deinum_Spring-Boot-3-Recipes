@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch01/recipe_1_2_i" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ch01/recipe_1_1_i/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04/recipe_4_3_ii/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04/recipe_4_4_i/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08/recipe_8_9_iii/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ch03/recipe_3_11/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03/recipe_3_12_i/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03/recipe_3_12_ii/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05/recipe_5_3_v_oauth2_server/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="temurin-21" project-jdk-type="JavaSDK" />
+</project>

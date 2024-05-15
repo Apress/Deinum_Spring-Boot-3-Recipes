@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.apress.springbootrecipes</groupId>
+  <artifactId>spring-boot-3-ch10</artifactId>
+  <version>3.0.0</version>
+  <packaging>pom</packaging>
+	<name>Spring Boot - Packaging</name>
+  <modules>
+		<module>recipe_10_1</module>
+		<module>recipe_10_2</module>
+		<module>recipe_10_3</module>
+		<module>recipe_10_4_i</module>
+		<module>recipe_10_4_ii</module>
+		<module>recipe_10_4_iii</module>
+		<module>recipe_10_5_i</module>
+		<module>recipe_10_5_ii</module>
+	</modules>
+
+</project>

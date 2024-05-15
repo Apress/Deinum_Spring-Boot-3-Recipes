@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.apress.springbootrecipes.demo.DemoApplication
+Spring-Boot-Version: 3.1.0-M1
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+Build-Jdk-Spec: 20
+Implementation-Title: recipe_1_2_i
+

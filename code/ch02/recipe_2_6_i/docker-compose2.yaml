@@ -1,0 +1,11 @@
+services:
+  postgres:
+    image: 'postgres:15.2'
+    environment:
+      - 'POSTGRES_DB=springboot3recipes'
+      - 'POSTGRES_USER=springboot3'
+      - 'POSTGRES_PASSWORD=recipes'
+    ports:
+      - '5432'
+    labels:
+      org.springframework.boot.service-connection: redis

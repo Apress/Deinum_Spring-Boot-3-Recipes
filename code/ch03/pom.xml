@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+				 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.apress.springbootrecipes</groupId>
+	<artifactId>spring-boot-3-ch03</artifactId>
+	<version>3.0.0</version>
+	<packaging>pom</packaging>
+	<name>Spring Boot - MVC</name>
+	<modules>
+		<module>recipe_3_1</module>
+		<module>recipe_3_2</module>
+		<module>recipe_3_3</module>
+		<module>recipe_3_4_i</module>
+		<module>recipe_3_4_ii</module>
+		<module>recipe_3_4_iii</module>
+		<module>recipe_3_5</module>
+		<module>recipe_3_6</module>
+		<module>recipe_3_7</module>
+		<module>recipe_3_8</module>
+		<module>recipe_3_9_i</module>
+		<module>recipe_3_9_ii</module>
+		<module>recipe_3_9_iii</module>
+		<module>recipe_3_10_i</module>
+		<module>recipe_3_10_ii</module>
+		<module>recipe_3_10_iii</module>
+		<module>recipe_3_11_i</module>
+		<module>recipe_3_11_ii</module>
+		<module>recipe_3_11_iii</module>
+	</modules>
+
+</project>

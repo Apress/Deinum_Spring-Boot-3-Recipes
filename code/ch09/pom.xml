@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.apress.springbootrecipes</groupId>
+  <artifactId>spring-boot-3-ch09</artifactId>
+  <version>3.0.0</version>
+  <packaging>pom</packaging>
+	<name>Spring Boot - Observability</name>
+  <modules>
+		<module>recipe_9_1</module>
+		<module>recipe_9_2</module>
+		<module>recipe_9_3</module>
+		<module>recipe_9_4_i_a</module>
+		<module>recipe_9_4_i_b</module>
+
+	</modules>
+
+</project>

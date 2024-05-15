@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.apress.springbootrecipes</groupId>
+  <artifactId>spring-boot-3-ch06</artifactId>
+  <version>3.0.0</version>
+  <packaging>pom</packaging>
+	<name>Spring Boot - Data Access</name>
+  <modules>
+		<module>recipe_6_1_i</module>
+		<module>recipe_6_1_ii</module>
+		<module>recipe_6_1_iii</module>
+		<module>recipe_6_2_i</module>
+		<module>recipe_6_2_ii</module>
+		<module>recipe_6_3_i</module>
+		<module>recipe_6_3_ii</module>
+		<module>recipe_6_3_iii</module>
+		<module>recipe_6_4_i</module>
+		<module>recipe_6_5_i</module>
+		<module>recipe_6_5_ii</module>
+		<module>recipe_6_5_iii</module>
+		<module>recipe_6_6_i</module>
+		<module>recipe_6_6_ii</module>
+		<module>recipe_6_6_iii</module>
+		<module>recipe_6_7_i</module>
+		<module>recipe_6_7_ii</module>
+		<module>recipe_6_8_i</module>
+		<module>recipe_6_8_ii</module>
+		<module>recipe_6_8_iii</module>
+		<module>recipe_6_8_iv</module>
+		<module>recipe_6_8_v</module>
+		<module>recipe_6_9_i</module>
+		<module>recipe_6_9_ii</module>
+		<module>recipe_6_9_iii</module>
+		<module>recipe_6_10_i</module>
+		<module>recipe_6_10_ii</module>
+	</modules>
+
+</project>

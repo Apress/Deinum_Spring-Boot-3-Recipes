@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.apress.springbootrecipes</groupId>
+  <artifactId>spring-boot-3-ch08</artifactId>
+  <version>3.0.0</version>
+  <packaging>pom</packaging>
+	<name>Spring Boot - Messaging</name>
+
+  <modules>
+		<module>recipe_8_1_i</module>
+		<module>recipe_8_1_ii</module>
+		<module>recipe_8_1_iii</module>
+		<module>recipe_8_1_iv</module>
+		<module>recipe_8_2_i</module>
+		<module>recipe_8_2_ii</module>
+		<module>recipe_8_2_iii</module>
+		<module>recipe_8_3_i</module>
+		<module>recipe_8_3_ii</module>
+		<module>recipe_8_3_iii</module>
+		<module>recipe_8_3_iv</module>
+		<module>recipe_8_5_i</module>
+		<module>recipe_8_5_ii</module>
+		<module>recipe_8_6_i</module>
+		<module>recipe_8_6_ii</module>
+		<module>recipe_8_6_iii</module>
+		<module>recipe_8_7_i</module>
+		<module>recipe_8_8_i</module>
+		<module>recipe_8_8_ii</module>
+		<module>recipe_8_9_i</module>
+		<module>recipe_8_9_ii</module>
+		<module>recipe_8_9_iii</module>
+
+	</modules>
+
+</project>
